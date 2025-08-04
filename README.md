@@ -1,1 +1,1 @@
-# Codeforces-rating-wise-problem
+# Codeforces-1200-rating-problem
